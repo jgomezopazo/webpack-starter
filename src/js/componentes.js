@@ -4,7 +4,7 @@ import logoWebpack from '../assets/img/webpack-logo.png';
 
 export const saludar = ( nombre ) => {
     
-    console.log(`hola ${nombre}`);
+    console.log(`hola  ${nombre}`);
 
     const h1 = document.createElement('h1');
     h1.innerText = `hola ${nombre}`;
